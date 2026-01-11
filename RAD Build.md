@@ -1,6 +1,8 @@
 # Remote Access Device (RAD) – Build Guide Overview
 
-This repository documents the design, hardware requirements, and software configuration for a **Remote Access Device (RAD)** built on the **LattePanda Delta V3** platform.
+**Author:** kaiju0x  
+**Maintained:** 2026-01-10  
+**Purpose:** This project documents the design, hardware requirements, and software configuration for a **Remote Access Device (RAD)** built on the **LattePanda Delta V3** platform.
 
 The system is designed for:
 - Remote access over cellular networks
